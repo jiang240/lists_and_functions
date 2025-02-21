@@ -18,7 +18,6 @@ def num_checker(question):
             print("Please enter minutes in number form")
     return num
 
-
 trip_num=0
 trip_total_min=0
 total_cost=0
